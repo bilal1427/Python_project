@@ -17,20 +17,51 @@ The ultimate goal is to contribute to global climate research and foster sustain
 
 ---
 
-## Dataset Summary
 The dataset comprises 71 columns and 641 rows, representing details of surface temperature changes across countries from 1961 to 2022. Key columns include:
 
-Column Name	Description
-Country	Name of the country.
-ISO3	ISO3 code for the country.
-Indicator	Description of the temperature change measurement.
-Unit	Measurement unit (Degree Celsius).
-Source	Source of the data.
-Sub-Region	Geographical grouping of the country.
-Income Group	Classification based on income levels (e.g., Low, Middle, High).
-Area (KM²)	Area of the country in square kilometers.
-Density (KM²)	Population density of the country.
-1961–2022 (Year Columns)	Annual temperature deviations in degrees Celsius for each year in the range.
+Column Name
+
+Description
+
+Country
+
+Name of the country.
+
+ISO3
+
+ISO3 code for the country.
+
+Indicator
+
+Description of the temperature change measurement.
+
+Unit
+
+Measurement unit (Degree Celsius).
+
+Source
+
+Source of the data.
+
+Sub-Region
+
+Geographical grouping of the country.
+
+Income Group
+
+Classification based on income levels (e.g., Low, Middle, High).
+
+Area (KM²)
+
+Area of the country in square kilometers.
+
+Density (KM²)
+
+Population density of the country.
+
+1961–2022 (Year Columns)
+
+Annual temperature deviations in degrees Celsius for each year in the range.
 
 
 ---
