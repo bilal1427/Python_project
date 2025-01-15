@@ -87,7 +87,7 @@ This analysis provides actionable insights into surface temperature trends:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/surface-temperature-eda.git
+   git clone https://github.com/bilal1427/surface-temperature-eda.git
    ```
 
 2. Install dependencies:
